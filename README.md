@@ -1,7 +1,11 @@
 # Frontend Mentor - Profile card component
 
+- ## [Deployed on Vercel](https://fm-profile-card-pearl.vercel.app/)
+- ### [Panos Frontend Mentor Profile Page](https://www.frontendmentor.io/profile/panosjapan7)
+** **
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
+### Project Description
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.

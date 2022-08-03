@@ -1,10 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-- ## [Deployed on Vercel](https://fm-profile-card-pearl.vercel.app/)
-- ### [Panos Frontend Mentor Profile Page](https://www.frontendmentor.io/profile/panosjapan7)
-
-** **
-### Project Description
+## Project Description
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
